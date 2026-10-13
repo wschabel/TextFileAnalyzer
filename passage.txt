@@ -1,0 +1,7 @@
+The core ViperStream application is developed in Python,
+using a modular architecture that separates the user interface,
+event handling, settings, and application management. However,
+the overall project is evolving into a multi-language system,
+allowing different components to use technologies suited to their responsibilities.
+This approach provides flexibility and a foundation for expanding ViperStream's capabilities
+in the future.
